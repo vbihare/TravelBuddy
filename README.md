@@ -1,4 +1,4 @@
-# TravelBuddy
+# TravelBuddy (An android app)
 This application will help users who love travelling to explore new places. It provides user to
 search places on the basis of their choice and also make a bucket list. We provide an application
 with multiple features which allows them to view current news and weather forecast; also look out
